@@ -1,7 +1,7 @@
 <div style="display: inline-block"><br>
 Hi, I'm Denis Fernando<br>
 Software Engineering student | System Analysis and Development student<br>
-I love learning new languages and getting to know new cultures.
+I love learn new languages and know new cultures.
 </div>
 
 <div style="display: inline-block"><br>
