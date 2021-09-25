@@ -16,7 +16,7 @@ Software Engineering student | System Analysis and Development student<br>
 &nbsp&nbsp&nbsp<img align="center" alt="Den-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
 &nbsp&nbsp&nbsp<img align="center" alt="Den-CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
 &nbsp&nbsp&nbsp<img align="center" alt="Den-MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-&nbsp&nbsp&nbsp<img align="center" alt="Den-GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="GIT" />
+&nbsp&nbsp&nbsp<img align="center" alt="Den-GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" title="Git" />
 <div><br>
 
 <div>
