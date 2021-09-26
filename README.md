@@ -7,8 +7,8 @@ Software Engineering student | System Analysis and Development student<br>
 ##
 
 ### __SKILLS__
-<div style="display: inline-block" >   
- <br>
+<div style="display: inline-block" >Those are the technologies that I'm learning and using to become a developer.    
+ <br><br>
 <img align="center" alt="Den-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
 &nbsp&nbsp&nbsp<img align="center" alt="Den-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
 &nbsp&nbsp&nbsp<img align="center" alt="Den-JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
