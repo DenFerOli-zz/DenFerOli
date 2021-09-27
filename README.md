@@ -2,7 +2,7 @@
 
 ### Hi, I'm Denis Fernando<br> 
   
-Software Engineering student | System Analysis and Development student<br>
+Software Engineering student | System Analysis and Development student.<br>
 
 ##
 
